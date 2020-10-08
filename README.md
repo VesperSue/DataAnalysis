@@ -1,2 +1,2 @@
 # DataAnalysis
-# use a randomForest to process data 
+use a randomForest to process data 
